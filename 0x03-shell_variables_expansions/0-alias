@@ -1,2 +1,2 @@
-!#/bin/bash
+x!#/bin/bash
 alias rm*="ls -la"
